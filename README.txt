@@ -1,11 +1,10 @@
-<!-- TABLE OF CONTENTS -->
+
 ## Table des matières
-* [Prérequis](#prérequis)
-* [Variantes](#variantes)
+* [Installation](#installation)
+* [Variants](#variants)
 
-## Prérequis
-Il faut disposer de Hop3x ou tout outil capable de compiler et exécuter les différents fichier sources
+## Installation
+Execute ```git clone ```
 
-## Modes de jeu
-Divers variantes sont disponibles tel que High Life, Day-Night et Life 3-4
-Un bouton "Pause" permet de mettre d'arrêter l'évolution des cellules.
+## Variants
+Various variants can be used such as High Life, Day-Night and Life 3-4
